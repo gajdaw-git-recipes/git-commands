@@ -5,7 +5,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   Recreating commits <recipes/recreating-commits>
+   Recreating commits <recreating-commits>
 
 
 
