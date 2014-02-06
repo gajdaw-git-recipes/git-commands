@@ -7,22 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "source/index.rst",
-			"settings":
-			{
-				"buffer_size": 441,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "source/conf.py",
-			"settings":
-			{
-				"buffer_size": 9068,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -51,6 +35,11 @@
 	},
 	"file_history":
 	[
+		"/Users/gajdaw/github/gajdaw-git-recipes/git-commands/source/conf.py",
+		"/Users/gajdaw/github/gajdaw-git-recipes/git-commands/README.md",
+		"/Users/gajdaw/github/gajdaw-git-recipes/git-commands/source/recipes/recreating-commits.rst",
+		"/Users/gajdaw/github/gajdaw-git-recipes/git-commands/source/recipes/index.rst",
+		"/Users/gajdaw/github/gajdaw-git-recipes/git-commands/source/index.rst"
 	],
 	"find":
 	{
@@ -86,65 +75,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "source/index.rst",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 441,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "source/conf.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9068,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -217,7 +149,7 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150.0,
