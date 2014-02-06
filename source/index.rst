@@ -7,6 +7,7 @@ Contents:
    :maxdepth: 2
 
    Recreating commits <recreating-commits>
+   Rebasing reverted branch <rebasing-reverted-branch>
 
 
 
