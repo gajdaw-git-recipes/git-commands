@@ -10,7 +10,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   Recipes <recipes/index>
+   Recreating commits <recipes/recreating-commits>
 
 
 
