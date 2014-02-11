@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Git commands'
-copyright = u'2014, Wlodzimierz Gajda'
+copyright = u'2014, W. Gajda'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -184,7 +184,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'Gitcommands.tex', u'Git commands Documentation',
-   u'Wlodzimierz Gajda', 'manual'),
+   u'W. Gajda', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -214,7 +214,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'gitcommands', u'Git commands Documentation',
-     [u'Wlodzimierz Gajda'], 1)
+     [u'W. Gajda'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -228,7 +228,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'Gitcommands', u'Git commands Documentation',
-   u'Wlodzimierz Gajda', 'Gitcommands', 'One line description of project.',
+   u'W. Gajda', 'Gitcommands', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -246,9 +246,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Git commands'
-epub_author = u'Wlodzimierz Gajda'
-epub_publisher = u'Wlodzimierz Gajda'
-epub_copyright = u'2014, Wlodzimierz Gajda'
+epub_author = u'W. Gajda'
+epub_publisher = u'W. Gajda'
+epub_copyright = u'2014, W. Gajda'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
