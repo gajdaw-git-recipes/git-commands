@@ -1,8 +1,8 @@
 Rebasing reverted branch
 ========================
 
-::
 
+Ala ma kota::
     $ git rebase --keep-empty --force-rebase master
 
 
@@ -17,30 +17,6 @@ Rebasing reverted branch
 
 
 
-
-.. image:: images/phone.svg
-   :height: 200px
-   :width: 200 px
-   :scale: 50 %
-   :align: left
-
-
-
-
-.. image:: images/phone.svg
-   :height: 100px
-   :width: 100 px
-   :alt: alternate text
-   :align: left   
-
-
-#Lorem
-
-##Ipsum
-
-###Dolor
-
-
 * lorem
 * ipsum
 * dolor
@@ -49,9 +25,3 @@ Rebasing reverted branch
 Lorem *ipsum* **dolor** sit amet.   
 
 
-Subsection
-----------
-
-
-Another section
-###############
