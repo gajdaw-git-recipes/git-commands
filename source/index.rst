@@ -6,9 +6,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   Recreating commits <recreating-commits>
-   Rebasing reverted branch <rebasing-reverted-branch>
-
+   config-git
+   open-problems
 
 
 Indices and tables
