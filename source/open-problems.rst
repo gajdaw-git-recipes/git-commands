@@ -59,3 +59,16 @@ git clone --recursive [URL]
 After the clone:
 
 git submodule update --init --recursive
+
+------------------------------------------------------------------------
+
+Avoiding problems with:   /bin/bash^M not found when working in
+Vagrant/Windows:
+
+Bash scripts have to user lf always.
+
+.gitattritubes
+
+*.bash     eol=lf
+script.sh  eol=lf
+
