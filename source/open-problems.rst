@@ -49,3 +49,13 @@ How to clone only one commit with a given tag?
 
 ------------------------------------------------------------------------
 
+Update submodules:
+
+
+During the clone:
+
+git clone --recursive [URL]
+
+After the clone:
+
+git submodule update --init --recursive
